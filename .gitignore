@@ -4,6 +4,7 @@
 # SQL Server files
 *.mdf
 *.ldf
+git add NextFolder/
 
 # Compiled Object files
 *.slo
