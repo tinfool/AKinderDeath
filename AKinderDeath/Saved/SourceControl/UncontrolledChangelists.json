@@ -5,7 +5,14 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/lvm41/OneDrive/Documents/GitHub/AKinderDeath/AKinderDeath/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"C:/Users/lvm41/OneDrive/Documents/GitHub/AKinderDeath/AKinderDeath/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/lvm41/OneDrive/Desktop/2025 MEOW/AKinderDeath/AKinderDeath/Content/SSGame/BP_SSCharacter.uasset",
+				"C:/Users/lvm41/OneDrive/Desktop/2025 MEOW/AKinderDeath/AKinderDeath/Content/SSGame/SSGameMode.uasset",
+				"C:/Users/lvm41/OneDrive/Desktop/2025 MEOW/AKinderDeath/AKinderDeath/Content/SSGame/BP_SSGameMode.uasset",
+				"C:/Users/lvm41/OneDrive/Desktop/2025 MEOW/AKinderDeath/AKinderDeath/Content/SSGame/BP_SSController.uasset",
+				"C:/Users/lvm41/OneDrive/Desktop/2025 MEOW/AKinderDeath/AKinderDeath/Content/SSGame/BP_SSPlayerController.uasset",
+				"C:/Users/lvm41/OneDrive/Desktop/2025 MEOW/AKinderDeath/AKinderDeath/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"C:/Users/lvm41/OneDrive/Desktop/2025 MEOW/AKinderDeath/AKinderDeath/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6.uasset"
 			]
 		}
 	]
