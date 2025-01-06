@@ -1,6 +1,10 @@
 # Visual Studio 2015 user specific files
 .vs/
 
+# SQL Server files
+*.mdf
+*.ldf
+
 # Compiled Object files
 *.slo
 *.lo
