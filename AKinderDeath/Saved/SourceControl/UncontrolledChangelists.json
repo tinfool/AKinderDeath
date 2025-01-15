@@ -6,14 +6,15 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/lvm41/OneDrive/Desktop/2025 MEOW/AKinderDeath/AKinderDeath/Content/WhiteboxLevels/WhiteboxV1.umap",
-				"C:/Users/lvm41/OneDrive/Desktop/2025 MEOW/AKinderDeath/AKinderDeath/Content/SSGame/BP_Barrier.uasset",
-				"C:/Users/lvm41/OneDrive/Desktop/2025 MEOW/AKinderDeath/AKinderDeath/Content/SSGame/M_Collision.uasset",
 				"C:/Users/lvm41/OneDrive/Desktop/2025 MEOW/AKinderDeath/AKinderDeath/Content/SSGame/BP_CollisionBarrier.uasset",
 				"C:/Users/lvm41/OneDrive/Desktop/2025 MEOW/AKinderDeath/AKinderDeath/Content/SSGame/WhiteboxMats/M_Collision.uasset",
 				"C:/Users/lvm41/OneDrive/Desktop/2025 MEOW/AKinderDeath/AKinderDeath/Content/SSGame/WhiteboxMats/M_Background.uasset",
 				"C:/Users/lvm41/OneDrive/Desktop/2025 MEOW/AKinderDeath/AKinderDeath/Content/SSGame/WhiteboxMats/M_Environment.uasset",
 				"C:/Users/lvm41/OneDrive/Desktop/2025 MEOW/AKinderDeath/AKinderDeath/Content/Characters/Mannequins/Meshes/SKM_Manny_Simple.uasset",
-				"C:/Users/lvm41/OneDrive/Desktop/2025 MEOW/AKinderDeath/AKinderDeath/Content/SSGame/BP_SSCharacter.uasset"
+				"C:/Users/lvm41/OneDrive/Desktop/2025 MEOW/AKinderDeath/AKinderDeath/Content/SSGame/BP_SSCharacter.uasset",
+				"C:/Users/lvm41/OneDrive/Desktop/2025 MEOW/AKinderDeath/AKinderDeath/Content/SSGame/WhiteboxMats/M_Interactables.uasset",
+				"C:/Users/lvm41/OneDrive/Desktop/2025 MEOW/AKinderDeath/AKinderDeath/Content/SSGame/BP_Barrier.uasset",
+				"C:/Users/lvm41/OneDrive/Desktop/2025 MEOW/AKinderDeath/AKinderDeath/Content/SSGame/M_Collision.uasset"
 			]
 		}
 	]
